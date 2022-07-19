@@ -1,0 +1,5 @@
+body { text-align: center }
+#scoreboard { font-size: 22px; margin: 1em 0 .5em }
+#textarea { font-size: 55px }
+button { font-size: 50px; margin: 0 1.5px }
+button.active { border: 2px solid #fa8072; border-radius: 4px }
